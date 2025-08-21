@@ -45,11 +45,11 @@ This *star schema* ensures optimized queries, scalability, and powerful visualiz
 ---
 
 ## 📸 Project Snapshot  
-![Executive Page Screenshot](Assets/Executive_Summary.png)
-![Hospital Insights Page Screenshot](Assets/Hospital_Insights.png)  
-![Healthcare Provider Matrices Page Screenshot](Assets/HP_Matrices.png)  
-![Patient Outcome Analysis Page Screenshot](Assets/Patient_Analysis.png)  
-![Monthly Expenses Trends Page Screenshot](Assets/MET.png)  
+![Executive Page Screenshot](P4-Health_Care_Analytics/Assets/Executive_Summary.png)
+![Hospital Insights Page Screenshot](P4-Health_Care_Analytics/Assets/Hospital_Insights.png)  
+![Healthcare Provider Matrices Page Screenshot](P4-Health_Care_Analytics/Assets/HP_Matrices.png)  
+![Patient Outcome Analysis Page Screenshot](P4-Health_Care_Analytics/Assets/Patient_Analysis.png)  
+![Monthly Expenses Trends Page Screenshot](P4-Health_Care_Analytics/Assets/MET.png)  
 
 ---
 
